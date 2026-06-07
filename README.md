@@ -42,14 +42,7 @@ cp .env.example .env
 # Edit .env with your values
 ```
 
-Required `.env` values:
-```
-DATABASE_URL="postgresql://user:pass@localhost:5432/resumepilot_db"
-JWT_ACCESS_SECRET="your-32-char-secret"
-JWT_REFRESH_SECRET="your-32-char-secret"
-GEMINI_API_KEY="yAQ.Ab8RN6LZY6jasieAQixG39wNunChNzQhYqVpS9aEMiuogjLYJQ"
-GOOGLE_CLIENT_ID="your-google-client-id"  # optional
-```
+
 
 ### 3. Database Setup
 
@@ -216,4 +209,4 @@ npm run build
 
 ---
 
-Built with ❤️ using Gemini AI
+Built with ❤️ 
