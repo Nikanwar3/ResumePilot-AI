@@ -1,6 +1,6 @@
 # ResumePilot AI
 
-> AI-powered ATS-friendly resume generator through conversational interviews
+> AI-powered ATS-friendly resume generator through conversational interviews.
 
 ## Tech Stack
 
