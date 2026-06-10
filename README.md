@@ -207,6 +207,6 @@ npm run build
 4. **ATS-only PDF** — No graphics, tables, or images (single-column layout)
 5. **Interview phases** — 8-phase structured flow with progress tracking
 
----
+-----
 
 Built with ❤️ 
